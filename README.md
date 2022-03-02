@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on anything really reach out to me and i will see.
 - 📫 How to reach me just send me an email to Adriancollins2244@gmail.com and i will respond when i see it.
-- I am new to github and am only going to use it to upload my school projects written in visual basic at the moment, feel free to take a look at any of them.
+- I am new to github and am only going to use it to upload my school projects written in visual basic at the moment, feel free to take a look at any of them. If you do see anything wrong with my github, as in how i structured the page the projects or anything like that please tell me I will do my best to fix it.
+
 <!---
 Adrian-022/Adrian-022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
