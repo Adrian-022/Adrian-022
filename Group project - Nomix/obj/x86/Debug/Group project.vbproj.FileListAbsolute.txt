@@ -1,0 +1,41 @@
+C:\Users\User\Desktop\Programs\Group project\Group project\bin\Debug\Group project.exe
+C:\Users\User\Desktop\Programs\Group project\Group project\bin\Debug\Group project.pdb
+C:\Users\User\Desktop\Programs\Group project\Group project\bin\Debug\Group project.xml
+C:\Users\User\Desktop\Programs\Group project\Group project\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\User\Desktop\Programs\Group project\Group project\obj\x86\Debug\Group project.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Programs\Group project\Group project\obj\x86\Debug\Group project.exe
+C:\Users\User\Desktop\Programs\Group project\Group project\obj\x86\Debug\Group project.xml
+C:\Users\User\Desktop\Programs\Group project\Group project\obj\x86\Debug\Group project.pdb
+C:\Users\ComputeRead\Desktop\NomiX\Group project\Group project\obj\x86\Debug\Group project.exe
+C:\Users\ComputeRead\Desktop\NomiX\Group project\Group project\obj\x86\Debug\Group project.xml
+C:\Users\ComputeRead\Desktop\NomiX\Group project\Group project\obj\x86\Debug\Group project.pdb
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\bin\Debug\Group project.exe
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\bin\Debug\Group project.pdb
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\bin\Debug\Group project.xml
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.vbprojAssemblyReference.cache
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.vbproj.GenerateResource.cache
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.exe
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.xml
+C:\Users\jayly\Desktop\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.pdb
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\bin\Debug\Group project.exe
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\bin\Debug\Group project.pdb
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\bin\Debug\Group project.xml
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.vbprojAssemblyReference.cache
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.vbproj.GenerateResource.cache
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.vbproj.CoreCompileInputs.cache
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.exe
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.xml
+E:\School\Computer Science\Comp Science pro\NomiX\Group project\Group project\obj\x86\Debug\Group project.pdb
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\obj\x86\Debug\Group project.exe
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\obj\x86\Debug\Group project.xml
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\obj\x86\Debug\Group project.pdb
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\bin\Debug\Group project.exe
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\bin\Debug\Group project.pdb
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\bin\Debug\Group project.xml
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Adrian\Downloads\Group project - Copy\Group project\obj\x86\Debug\Group project.vbproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Group project\obj\x86\Debug\Group project.exe
+C:\Users\Adrian\Desktop\Group project\obj\x86\Debug\Group project.xml
+C:\Users\Adrian\Desktop\Group project\obj\x86\Debug\Group project.pdb
